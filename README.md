@@ -1,4 +1,4 @@
-<img width="923" height="720" alt="led_matrix" src="https://github.com/user-attachments/assets/29df4158-4934-483b-bbe7-22471b1becbe" /># microprocessor10
+
 # ثنا اکبری
 # جلسه دهم ریزپردازنده و زبان های اسمبلی 
 # کار با ماژول بلوتوث و ماتریس ال ای دی
@@ -37,6 +37,10 @@ https://github.com/user-attachments/assets/29b4d3d8-faf5-4bf7-aacb-8abd2b3f624d
 <img width="923" height="720" alt="led_matrix" src="https://github.com/user-attachments/assets/bcf20bd0-58b3-4693-9259-7ca22a633160" />
 
 مشاهده خروجی:
+
+
+https://github.com/user-attachments/assets/89b2840f-3f75-4d52-afdc-148dfe5a5226
+
 
 **HC_05**
 در این برنامه ارتباط سریال بین آردوینو و ماژول بلوتوث HC-06 برقرار شده تا بتوان از طریق یک اپلیکیشن مثل **BT Terminal** روی گوشی، داده‌ها را دریافت و ارسال کرد. از آن‌جایی که HC-06 برای ارتباط سریال نیاز به پایه‌های RX و TX دارد و معمولاً نمی‌خواهیم از پورت سریال اصلی آردوینو استفاده کنیم، از کتابخانه SoftwareSerial استفاده شده تا یک پورت سریال نرم‌افزاری روی پایه‌های ۱۰ و ۱۱ ساخته شود. پایه ۱۰ نقش دریافت (RX) و پایه ۱۱ نقش ارسال (TX) را دارد.
